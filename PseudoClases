@@ -1,0 +1,13 @@
+//PSEUDOCLASS:
+
+:last-child
+:only-child
+:invalid
+:hover
+:focus
+
+
+//EXAMPLE
+.main-nav__item a:hover {
+    color: blue
+}

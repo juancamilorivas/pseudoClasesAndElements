@@ -1,0 +1,19 @@
+
+// PSEUDO ELEMENTS:
+::first-letter
+::first-line
+::selection
+::after
+::before
+::first-letter
+
+
+
+//Example style.css
+//This must put a " | " After the "a" elements inside the class "main-nav__item"
+
+.main-nav__item a::after {
+    content: " | "
+}
+
+
