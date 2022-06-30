@@ -1,0 +1,15 @@
+/*
+Notes course HTML & CSS
+
+NUMERO UNO: Posicionamiento --> static, absolute, relative, fixed
+NUMER DOS: Modelo de caja (Box model) --> margin, border, padding, width y height del contenido
+NUMERO TRES: Tipografía --> tipos, tamaños de fuente, etc
+NUMERO CUATRO: Estilos visuales --> box-shadow, border-radius, gradient, etc
+NUMERO CINCO: Otros --> reglas CSS y más
+
+PRIMERO: alistar las variables de colores que se van a usar con el root
+SEGUNDO: quitar el padding y margin por defecto, activar REM en archivo css de estilos
+TERCER: descargar los font-family desde google fonts y agregarlos a header, no mas de 2
+QUARTO: crear el archivo html con el esquelto base del proyecto, poner H1
+QUINTO: crear carpeta assets con carpeta "img" y "icon"
+*/
